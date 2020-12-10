@@ -1,0 +1,9 @@
+Version 1.3.2:
+    Added copperrecipes.lua
+    Added Copper Refining Recipes
+Version 1.2.2:
+    Remove Graphics Folder
+    Changes to Icons instead of Icon
+Version 1.2.1:
+    Changed recipes.lua > ironrecipes.lua 
+    Bugfixes

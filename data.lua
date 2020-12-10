@@ -1,0 +1,15 @@
+require("Prototype.ironrecipes")
+require("Prototype.copperrecipes")
+
+require("Prototype.irontechonology")
+require("Prototype.coppertechnology")
+
+table.insert(data.raw["module"]['productivity-module'].limitation, 'basic-iron-ore-refining') 
+table.insert(data.raw["module"]['productivity-module'].limitation, 'pressure-washing-iron-ore-refining') 
+table.insert(data.raw["module"]['productivity-module'].limitation, 'iron-dampening') 
+table.insert(data.raw["module"]['productivity-module-2'].limitation, 'basic-iron-ore-refining') 
+table.insert(data.raw["module"]['productivity-module-2'].limitation, 'pressure-washing-iron-ore-refining') 
+table.insert(data.raw["module"]['productivity-module-2'].limitation, 'iron-dampening') 
+table.insert(data.raw["module"]['productivity-module-3'].limitation, 'basic-iron-ore-refining') 
+table.insert(data.raw["module"]['productivity-module-3'].limitation, 'pressure-washing-iron-ore-refining') 
+table.insert(data.raw["module"]['productivity-module-3'].limitation, 'iron-dampening') 
